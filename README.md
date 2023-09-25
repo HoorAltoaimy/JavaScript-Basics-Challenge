@@ -1,14 +1,18 @@
 # JavaScript basic coding challenges
 
 #### Please read these carefully:
+- There is no need to open a PR. 
+
+- Discuss your solutions within your classmates and slack tech channel 
 
 - The idea of these challenges `is not to google the solution.` try your best thinking how can we solve such problems.
 
 - You should be aware of the `basic syntax + problem solving skills`
 
-- It's better to try your best to figure it out. `do a peer programming with your group mate/s (or go solo)`. think together on how to figure it out and `have fun!`
+- It's better to try your best to figure it out. `do a peer programming with your group mate/s (or go solo)`. Think together on how to figure it out and `have fun!`
 
 - Remember, `googling the solution is not what this assignment is expecting`
+
 - Solve as many challenges as you could and write your solutions in `index.js` file
 
 ---
